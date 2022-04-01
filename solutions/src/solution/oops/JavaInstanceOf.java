@@ -1,6 +1,6 @@
 // https://www.hackerrank.com/challenges/java-instanceof-keyword/problem
 
-package solution;
+package solution.oops;
 
 import java.util.ArrayList;
 import java.util.Scanner;
