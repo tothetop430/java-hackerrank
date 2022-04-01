@@ -1,6 +1,6 @@
 // https://www.hackerrank.com/challenges/java-sort/problem
 
-package solution;
+package solution.algorithm;
 
 import java.util.ArrayList;
 import java.util.Collections;
