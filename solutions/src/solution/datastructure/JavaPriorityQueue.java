@@ -1,6 +1,6 @@
 // https://www.hackerrank.com/challenges/java-priority-queue/problem
 
-package solution;
+package solution.datastructure;
 
 
 import java.util.*;
